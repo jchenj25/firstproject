@@ -1,0 +1,25 @@
+p {
+    font-size: 150px;
+    margin: 10vw;
+}
+
+#oliviarose {
+    width: 80vw;
+    margin: 10vw;
+    margin-top: 0vh;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("assets/oliviarose3.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10vw;
+  }
